@@ -31,7 +31,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Plaisance de Touch" 
        description="Photo by Aurélien JEANNE" 
        license="Creative Commons BY-SA 2.0" 
-       url="https://commons.wikimedia.org/wiki/File:Zoo_African_Safari_(7757317722).jpg">
+       url="https://flic.kr/p/cPuhih">
 
 ## Map
 
