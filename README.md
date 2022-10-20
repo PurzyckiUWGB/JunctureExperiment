@@ -18,7 +18,7 @@
 
 This is some experimental text. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
-  https://upload.wikimedia.org/wikipedia/commons/4/48/Zoo_African_Safari_%287757317722%29.jpg>
+  "https://upload.wikimedia.org/wikipedia/commons/4/48/Zoo_African_Safari_%287757317722%29.jpg">
 
 # Basic usage
 
