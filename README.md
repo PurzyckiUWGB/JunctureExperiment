@@ -31,7 +31,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Plaisance de Touch" 
        description="Photo by Aurélien JEANNE" 
        license="Creative Commons BY-SA 2.0" 
-       url="https://flic.kr/p/cPuhih">
+       url="https://live.staticflickr.com/7138/7757317722_7104a3557a_h.jpg">
 
 ## Map
 
